@@ -67,11 +67,7 @@ class MyApp extends StatelessWidget{
                         ),),
                   ),
                 ),
-                  Card(
-                    child: ListTile(
-leading: Icon(),
-                    ),
-                  )
+
                 
               ],
 
